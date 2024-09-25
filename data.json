@@ -1,0 +1,4 @@
+{
+  "posts": [{ "Id": 1, "title": "First Post", "views": 1000 }],
+  "comments": [{ "Id": 1, "body": "Great post!", "postId": 1 }]
+}
